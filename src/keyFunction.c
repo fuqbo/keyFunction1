@@ -92,7 +92,7 @@ struct input_event key_value;
                 }
 
            }
-
+//dsfdfsdfdsfdsf
 
          close(fd);
       }

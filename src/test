@@ -13,7 +13,7 @@
 #include <string.h> //memset()
 #include <linux/input.h> 
 
-
+dfdfsdf
 int main(void)
 {
 int fd,ret;
